@@ -30,7 +30,7 @@ export default function Header({
           {/* Logo */}
           <div className="flex items-center gap-3">
             <img
-              src="/3e638-seplag.png"
+              src="/seplag.png"
               alt="SEPLAG"
               className="h-9 object-contain rounded-md px-2 py-1 bg-white"
             />
