@@ -1,0 +1,7 @@
+services:
+  kanban:
+    build: .
+    container_name: kanban-seplag
+    ports:
+      - "3080:80"
+    restart: unless-stopped
